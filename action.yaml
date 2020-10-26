@@ -1,6 +1,6 @@
-name: "CloudFlare DNS Management"
-description: "Creates and updates  CloudFlare DNS records"
-author: "rez0n"
+name: "CloudFlare Upsert DNS Record"
+description: "Upserts CloudFlare DNS records"
+author: "ScottRocha"
 
 inputs:
   type:
