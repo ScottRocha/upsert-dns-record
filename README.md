@@ -1,6 +1,6 @@
-# Create DNS Record Action for GitHub
+# Upsert DNS Record Action for GitHub
 
-Creates a new CloudFlare DNS record.
+Upserts a new CloudFlare DNS record.
 
 ## Usage via Github Actions
 
